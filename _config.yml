@@ -6,7 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.careconnect.com.au" # the base hostname & protocol for your site
 
 twitter_username:
+facebook_username: CareConnect
 github_username:
+mobile_phone: 04443332211
 
 # Build settings
 markdown: kramdown
